@@ -31,3 +31,11 @@ a {
 .margin-top{
   margin-top: 50px;
 }
+
+footer{
+  display: block;
+  height: 50px;
+  background-color: #3e251c;
+  color: white;
+  text-align: center;
+}
