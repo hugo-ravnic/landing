@@ -8,7 +8,10 @@
 @import url("components/card.css");
 @import url("components/nav.css");
 
-/* General style rules for fonts and colors */
+html {
+		scroll-behavior: smooth;
+	}
+
 body {
   font-family: 'Lora', serif;
   font-size: 18px;
